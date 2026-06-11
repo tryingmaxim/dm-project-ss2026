@@ -1,0 +1,31 @@
+{
+  "top10": [
+    "Curricular units 2nd sem (approved)",
+    "Curricular units 1st sem (approved)",
+    "Curricular units 2nd sem (grade)",
+    "Curricular units 1st sem (grade)",
+    "Tuition fees up to date",
+    "Curricular units 2nd sem (evaluations)",
+    "Curricular units 1st sem (evaluations)",
+    "Age at enrollment",
+    "Scholarship holder",
+    "Gender"
+  ],
+  "top15": [
+    "Curricular units 2nd sem (approved)",
+    "Curricular units 1st sem (approved)",
+    "Curricular units 2nd sem (grade)",
+    "Curricular units 1st sem (grade)",
+    "Tuition fees up to date",
+    "Curricular units 2nd sem (evaluations)",
+    "Curricular units 1st sem (evaluations)",
+    "Age at enrollment",
+    "Scholarship holder",
+    "Gender",
+    "Course",
+    "Application mode",
+    "Previous qualification (grade)",
+    "Curricular units 2nd sem (enrolled)",
+    "Debtor"
+  ]
+}
